@@ -1,0 +1,11 @@
+def about():
+  print("")
+  print("")
+  print("https://www.gta5-mods.com/users/Charliesky")
+  print("discord : chalie#4059")
+  print("")
+  print("")
+  print("")
+  print("")
+  print("")
+  print("")
